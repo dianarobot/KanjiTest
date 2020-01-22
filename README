@@ -1,0 +1,4 @@
+INSTALL
+
+pip install JapaneseTokenizer
+brew install mecab mecab-ipadic git curl xz
